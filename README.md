@@ -1,7 +1,7 @@
 # School-Assignments-Ing
 All found assignments for my Master's study in Software engineering 
 
-**Please note that not all succesfully done courses are here, some of the missing ones are team project (blockchain application), logic (model theory, binary desicion diagrams, SAT solvers...), MSUS (Petri nets), Functional programming (Haskell), automats and advanced languages (  .**
+**Please note that not all succesfully done courses are here, some of the missing ones are:**
 • Team project - Blochchain website for students and teachers (something like AIS).
 • Logic - Acquiring basic theoretical knowledge of mathematical logic for computer science application, including logic foundations, semantic and syntactic approaches, and nonstandard logics.
 • Modeling and simulation of event systems - Learning modeling, simulation, analysis, and synthesis of event-driven systems, specifically using Petri nets, for various application fields.
