@@ -1,5 +1,7 @@
 # School-Assignments-Ing
-All found assignments for my Master's study in Software engineering.
+All found assignments for my Master's study in Software engineering.<br>
+
+Favourite subjects - BIOM and SUNS. <br>
 
 **Please note that not all succesfully done courses are here, some of the missing ones are:** <br>
 • **Team project** - Blochchain website for students and teachers (something like AIS).<br>
