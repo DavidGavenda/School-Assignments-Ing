@@ -1,7 +1,7 @@
 # School-Assignments-Ing
 All found assignments for my Master's study in Software engineering.<br>
 
-Favourite subjects - **BIOM** and **SUNS**. <br>
+Favourite courses - **BIOM** and **SUNS**. <br>
 
 ## A graduate of the master's program in Applied Computer Science:
 
