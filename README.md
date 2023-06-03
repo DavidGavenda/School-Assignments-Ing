@@ -3,6 +3,12 @@ All found assignments for my Master's study in Software engineering.<br>
 
 Favourite courses - **BIOM** and **SUNS**. <br>
 
+**Used technologies :** <br>
+
+• **Python** - IDE (Jupyter Notebook, Visual Studio Code) with libraries: pandas, cv2, numpy, sklearn, skimage, matplotlib, torch, tensorflow, keras, crypto, json...
+• **Kotlin** - IDE (Android Studio) 
+• **Web-dev** - IDE (Visual Studio Code) - HTML, CSS, NodeJS, Hyperledger, SCSS... (Team project)
+
 ## A graduate of the master's program in Applied Computer Science:
 
 Graduates of the Applied Computer Science program will acquire the ability to specify, design, implement, and maintain extensive modern software applications for both standard and specialized computer resources. They will be capable of extending the functionality of modern information technology systems, developing, customizing, and implementing modern information technologies in a selected application domain. Applied Computer Science graduates can work effectively as individuals, as members, and as leaders of development teams. They will gain knowledge and insights into areas such as big data, mobile computing, cloud computing, the Internet of Things, and information system security.
@@ -35,6 +41,10 @@ Brief course outline:
 
 The course provides students with comprehensive knowledge of biometric methods, focusing on the theoretical understanding and practical applications of biometric systems and their use in information technology. Covering diverse areas such as pattern recognition, privacy protection, system accuracy, and data standardization, the course prepares students to effectively work with technical, social, and legal aspects of biometric technologies. It delves into various types of biometric systems, their advantages, limitations, and security, as well as methods for feature extraction, classification, and system design and implementation.
 
+**Assignment 1** - Searching of biometrics in picture - Histogram equalizations, gaussian blur, canny, hough transformations, GUI creation...
+**Assignment 2** - Face search - face masks, Viola-Jones, neural networks, face comparison...
+**Assignment 3** - Face recognition - face localization, average face, LBP, HOG, Clustering...
+
 ## MOBV - Mobile computing 
 
 Brief course outline: 
@@ -46,6 +56,10 @@ This course provides a comprehensive understanding of current trends in mobile c
 Brief course outline: 
 
 In this course, students gain knowledge in the theory and applications of machine learning. The course systematically introduces renowned tools in machine learning, emphasizing neural networks, boosting, kernel methods, support vector machines, clustering, and deep learning. After mastering the theoretical basis, students can apply these modern tools in various areas of information and communication technologies. Key topics include artificial intelligence, machine learning, neurocomputing, neuron models, multilayer perceptron, radial-basis function networks, self-organizing systems, recurrent networks, ensemble learning with boosting, margin and kernel methods, support vector machines, clustering, deep learning, and applications of machine learning, such as pattern recognition, biometrics, communication networks, and signal processing.
+
+**Assignment 1** - Neural networks (figuring out wine quality based on descriptions) - Wine analysis, histograms, Random classifier, Logistic regression...
+**Assignment 2** - Data analysis and regression - Analysis of Spotify dataset, GridSearch, SVM, Random forest...
+**Assignment 3** - Convolutional neural networks and transfer learning - object detection for 30 classes, different types of regulazation, layer visualization, image augmentations...
 
 ## UPB - Introduction to computer security 
 
