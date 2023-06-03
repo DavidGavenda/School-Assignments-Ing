@@ -5,9 +5,9 @@ Favourite courses - **BIOM** and **SUNS**. <br>
 
 **Used technologies :** <br>
 
-• **Python** - IDE (Jupyter Notebook, Visual Studio Code) with libraries: pandas, cv2, numpy, sklearn, skimage, matplotlib, torch, tensorflow, keras, crypto, json...
-• **Kotlin** - IDE (Android Studio) 
-• **Web-dev** - IDE (Visual Studio Code) - HTML, CSS, NodeJS, Hyperledger, SCSS... (Team project)
+• **Python** - IDE (Jupyter Notebook, Visual Studio Code) with libraries: pandas, cv2, numpy, sklearn, skimage, matplotlib, torch, tensorflow, keras, crypto, json... <br>
+• **Kotlin** - IDE (Android Studio) <br>
+• **Web-dev** - IDE (Visual Studio Code) - HTML, CSS, NodeJS, Hyperledger, SCSS... (Team project) <br>
 
 ## A graduate of the master's program in Applied Computer Science:
 
