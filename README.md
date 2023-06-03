@@ -2,13 +2,13 @@
 All found assignments for my Master's study in Software engineering 
 
 **Please note that not all succesfully done courses are here, some of the missing ones are:** <br>
-• Team project - Blochchain website for students and teachers (something like AIS).<br>
-• Logic - Acquiring basic theoretical knowledge of mathematical logic for computer science application, including logic foundations, semantic and syntactic approaches, and nonstandard logics. <br>
-• Modeling and simulation of event systems - Learning modeling, simulation, analysis, and synthesis of event-driven systems, specifically using Petri nets, for various application fields. <br>
-• Functional programming - Gaining detailed knowledge of the functional language Haskell, understanding functional programming and differences from imperative languages. <br>
-• Automats and formal languages - Acquiring advanced knowledge of formal languages, finite automata, stack automata, their usage in compiler construction and machine language translation. <br>
-• Management and acquisition of knowledge - Learning modeling, simulation, analysis, and synthesis of event-driven systems, specifically using Petri nets, for various application fields. <br>
-• Architecture of software systems - Developing capability to use design and architectural patterns, understanding SOA-based systems, web services design and implementation, and parallel algorithms. <br>
+• **Team project** - Blochchain website for students and teachers (something like AIS).<br>
+• **Logic** - Acquiring basic theoretical knowledge of mathematical logic for computer science application, including logic foundations, semantic and syntactic approaches, and nonstandard logics. <br>
+• **Modeling and simulation of event systems** - Learning modeling, simulation, analysis, and synthesis of event-driven systems, specifically using Petri nets, for various application fields. <br>
+• **Functional programming** - Gaining detailed knowledge of the functional language Haskell, understanding functional programming and differences from imperative languages. <br>
+• **Automats and formal languages** - Acquiring advanced knowledge of formal languages, finite automata, stack automata, their usage in compiler construction and machine language translation. <br>
+• **Management and acquisition of knowledge** - Learning modeling, simulation, analysis, and synthesis of event-driven systems, specifically using Petri nets, for various application fields. <br>
+• **Architecture of software systems** - Developing capability to use design and architectural patterns, understanding SOA-based systems, web services design and implementation, and parallel algorithms. <br>
 
 ## A graduate of the master's program in Applied Computer Science:
 
